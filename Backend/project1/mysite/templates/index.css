@@ -1,0 +1,18 @@
+body{
+    /* background-color:lightblue; */
+    /* background-color: rgb(95, 115, 61); */
+    background-color: mediumseagreen;
+    
+    background-repeat:no-repeat;
+    /* background-position:right top; */
+    background-attachment: scroll;
+}
+h1{
+    color:rgb(234, 159, 20);
+    text-align:justify
+}
+p{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    margin: 100px;
+}
